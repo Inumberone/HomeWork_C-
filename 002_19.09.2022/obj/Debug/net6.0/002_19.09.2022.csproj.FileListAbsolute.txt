@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\002_19.09.2022.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\002_19.09.2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\002_19.09.2022.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\002_19.09.2022.AssemblyInfo.cs
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\002_19.09.2022.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\bin\Debug\net6.0\002_19.09.2022.exe
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\bin\Debug\net6.0\002_19.09.2022.deps.json
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\bin\Debug\net6.0\002_19.09.2022.runtimeconfig.json
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\bin\Debug\net6.0\002_19.09.2022.dll
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\bin\Debug\net6.0\002_19.09.2022.pdb
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\002_19.09.2022.dll
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\refint\002_19.09.2022.dll
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\002_19.09.2022.pdb
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\002_19.09.2022.genruntimeconfig.cache
+D:\GeekBrains\C#\Seminars\HomeWork\002_19.09.2022\obj\Debug\net6.0\ref\002_19.09.2022.dll
