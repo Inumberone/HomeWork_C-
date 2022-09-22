@@ -8,7 +8,7 @@ int num5 = (a%10);
 int num2 = ((a/1000)%10);
 int num4 = ((a/10)%10);
 
-if ((num1/num5==1) || (num2/num4==1)) 
+if ((num1/num5==1)&&(num2/num4==1)) 
 {
 Console.WriteLine("Число палиндром");
 }
