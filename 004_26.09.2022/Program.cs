@@ -2,13 +2,18 @@
 
 
 Console.WriteLine("Введите число A: ");
-int A = int.Parse(Console.ReadLine()!);
+int a = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите число B: ");
-int B = int.Parse(Console.ReadLine()!);
+int b = int.Parse(Console.ReadLine()!);
 
-double result = Math.Pow(A, B);
-Console.WriteLine($"Ответ: {result} ");
- 
+int exp = a;
+
+for (int i = 1; i < b; i++)
+{
+exp = exp * a;
+}
+Console.WriteLine(exp);
+
 
 //Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 
